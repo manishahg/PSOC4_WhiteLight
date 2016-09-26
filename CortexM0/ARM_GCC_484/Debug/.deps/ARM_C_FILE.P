@@ -1,0 +1,68 @@
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/CortexM0/ARM_GCC_484/Debug/Cm0Start.o : C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/Cm0Start.c 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/Cm0Start.c : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/CortexM0/ARM_GCC_484/Debug/CyFlash.o : C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/CyFlash.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/CyFlash.c 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/CyFlash.c : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/CortexM0/ARM_GCC_484/Debug/CyLib.o : C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/CyLib.c 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/CyLib.c : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/CortexM0/ARM_GCC_484/Debug/Pin_Blue.o : C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/Pin_Blue.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/Pin_Blue_aliases.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cypins.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/Pin_Blue.c 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/Pin_Blue.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/Pin_Blue_aliases.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/Pin_Blue.c : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/CortexM0/ARM_GCC_484/Debug/Pin_Green.o : C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/Pin_Green.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/Pin_Green_aliases.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cypins.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/Pin_Green.c 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/Pin_Green.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/Pin_Green_aliases.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/Pin_Green.c : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/CortexM0/ARM_GCC_484/Debug/Pin_Red.o : C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/Pin_Red.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/Pin_Red_aliases.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cypins.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/Pin_Red.c 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/Pin_Red.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/Pin_Red_aliases.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/Pin_Red.c : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/CortexM0/ARM_GCC_484/Debug/cyPm.o : C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyPm.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyPm.c 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyPm.c : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/CortexM0/ARM_GCC_484/Debug/cyfitter_cfg.o : C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyfitter_cfg.c 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyfitter_cfg.c : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/CortexM0/ARM_GCC_484/Debug/cymetadata.o : C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cymetadata.c 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cymetadata.c : 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/CortexM0/ARM_GCC_484/Debug/cyutils.o : C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyutils.c 
+
+C:/Users/Manisha\ Goyal/Desktop/embedded/Design_White.cydsn/Generated_Source/PSoC4/cyutils.c : 
+

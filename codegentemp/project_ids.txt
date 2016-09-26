@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|b4a2f7b7-742b-4d20-8f39-5323496bd51e
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|5d7ce9f7-e475-40f2-87b5-8d5daf7ec59a
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|51f0174b-f7b7-45af-a5b9-92ccd4be2bc0
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|ce9f9f65-026f-405b-a598-9b95b37bf2c9
+C:\Users\Manisha Goyal\Desktop\embedded\Design_LED\Design_LED.cydsn\Design_LED.cyprj|4ad6e8a1-63be-494d-8a29-9fbfe04d6c0c
+C:\Users\Manisha Goyal\Desktop\embedded\Design_White.cydsn\Design_White.cyprj|dd547d78-c7f2-4d95-ae7f-ea5702c383aa
